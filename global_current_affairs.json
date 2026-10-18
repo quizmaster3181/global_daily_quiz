@@ -1,0 +1,47 @@
+[
+  {
+    "id": "19_oct_26_633789",
+    "question": "Which Himalayan pass connects Srinagar with Leh?",
+    "options": [
+      "1. Nathu La",
+      "2. Zoji La",
+      "3. Rohtang Pass",
+      "4. Shipki La"
+    ],
+    "answer": "2",
+    "explanation": "Zoji La is a high mountain pass in the Himalayas connecting the Kashmir Valley to Ladakh.",
+    "difficulty_level": "Medium",
+    "exam_year": "UPSC 2022",
+    "check_status": "checked"
+  },
+  {
+    "id": "19_oct_26_900403",
+    "question": "True or False: The Karakoram Pass lies between India and China (2-Option Test).",
+    "options": [
+      "1. True",
+      "2. False"
+    ],
+    "answer": "1",
+    "explanation": "2-option quizzes pass validation directly without adding fake options!",
+    "difficulty_level": "Easy",
+    "exam_year": "2024",
+    "check_status": "checked"
+  },
+  {
+    "id": "19_oct_26_688938",
+    "question": "Select ALL passes located in Himachal Pradesh (6-Option Multi-Correct Test):",
+    "options": [
+      "1. Rohtang Pass",
+      "2. Baralacha La",
+      "3. Shipki La",
+      "4. Nathu La",
+      "5. Jelep La",
+      "6. Bum La"
+    ],
+    "answer": "1,2,3",
+    "explanation": "Rohtang, Baralacha La, and Shipki La are in Himachal Pradesh.",
+    "difficulty_level": "Hard",
+    "exam_year": "UPSC 2025",
+    "check_status": "checked"
+  }
+]
