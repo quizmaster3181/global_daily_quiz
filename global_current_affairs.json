@@ -58,5 +58,22 @@
     "difficulty_level": "Medium",
     "exam_year": "UPSC 2022",
     "check_status": "checked"
+  },
+  {
+    "id": "19_oct_26_267256",
+    "question": "Select ALL passes located in Himachal Praasdasdasddesh (6-Option Multi-Correct Test):",
+    "options": [
+      "1. Rohtang Pass",
+      "2. Baralacha La",
+      "3. Shipki La",
+      "4. Nathu La",
+      "5. Jelep La",
+      "6. Bum La"
+    ],
+    "answer": "1,2,3",
+    "explanation": "Rohtang, Baralacha La, and Shipki La are in Himachal Pradesh.",
+    "difficulty_level": "Hard",
+    "exam_year": "UPSC 2025",
+    "check_status": "checked"
   }
 ]
